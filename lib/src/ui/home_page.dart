@@ -18,7 +18,7 @@ class _MyHomePageState extends State<HomePage> {
           title: Text(widget.title),
         ),
         body: const Center(
-          child: Text('Multi Stepp App'),
+          child: Text('Multi Step App'),
         ));
   }
 }
